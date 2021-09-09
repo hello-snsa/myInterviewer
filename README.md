@@ -43,10 +43,27 @@ For a better result open some video recorder application like zoom or google mee
   2. react-router-dom
   
 ---
+## Some Sample Image
 
+#####  Question 1
+ ---
+  <img src="https://github.com/kmrraviranjan1/myInterviewer/blob/development/src/readmeImages/ques1.png" width='100%' alt="question1">
+ 
+#####  Question 3
+ ---
+  <img src="https://github.com/kmrraviranjan1/myInterviewer/blob/development/src/readmeImages/ques3.png" width='100%' alt="question3">
+ 
+#####  Question 6
+---
+  <img src="https://github.com/kmrraviranjan1/myInterviewer/blob/development/src/readmeImages/ques6.png" width='100%' alt="question6">
+
+---
+### Please Visit Again, the application is in deveolopment phase.
+
+---
 # Made with love, passion and necessity by Ravi Ranjan Kumar
 
-
+---
 
 
 
